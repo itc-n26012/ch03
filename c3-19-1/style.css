@@ -1,0 +1,13 @@
+.box {
+    background-color: #aef;
+    width: 200px;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ccc;
+    min-height: 230px;
+}
